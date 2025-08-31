@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>RicciFlow.org — Master Book (Preview)</title>
+  <title>Ricci Flow Master Book project</title>
 </head>
 <body>
   <p>Ricci Flow Master Book project.</p>
