@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-The Ricci Flow project.
-
 $$
 \frac{\partial g_{ij}}{\partial t} = -2R_{ij}
 $$
