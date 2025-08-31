@@ -22,7 +22,7 @@ $$
 g = g_{ij} dx^i \otimes dx^j
 $$
 
-The components $g_{ij} = g(\partial_i,\partial_j) $ form a symmetric, positive-definite matrix at each point. This matrix allows us to compute the inner product of two tangent vectors $v = v^i \frac{\partial}{\partial x^i}$ and $w = w^j \frac{\partial}{\partial x^j}$ as:
+The components $g_{ij} = g(\frac{\partial}{\partial x^i},\frac{\partial}{\partial x^j}) $ form a symmetric, positive-definite matrix at each point. This matrix allows us to compute the inner product of two tangent vectors $v = v^i \frac{\partial}{\partial x^i}$ and $w = w^j \frac{\partial}{\partial x^j}$ as:
 
 $$
 g(v, w) = g_{ij}v^i w^j
