@@ -3,7 +3,7 @@ layout: default
 title: Riemannian Metric
 ---
 
-# Definition: Riemannian Metric
+## Definition: Riemannian Metric
 
 A **Riemannian metric** on a smooth manifold $M$ is a family of inner products
 $g_p : T_pM \times T_pM \to \mathbb{R}$, one for each point $p \in M$, that varies smoothly from point to point. In other words, for any two smooth vector fields $X$ and $Y$ on $M$, the function $p \mapsto g_p(X_p, Y_p)$ is a smooth function.
