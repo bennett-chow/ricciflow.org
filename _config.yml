@@ -1,0 +1,31 @@
+# _config.yml
+
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that.
+
+# -- Site Settings --
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.description }}, etc.
+
+title: The Ricci Flow Project
+description: >- # this means to ignore newlines until the next key
+  An open, collaborative resource for learning about Ricci flow, 
+  geometric analysis, and related topics.
+author: Bennett Chow # Or your name
+
+# -- GitHub Pages Settings --
+# This is the easiest way to get a nice-looking, simple theme.
+# "jekyll-theme-minimal" is a clean, academic-style theme supported by GitHub.
+theme: jekyll-theme-minimal
+
+# -- Optional Settings --
+# If your theme supports it, these can be useful.
+github_username: bennett-chow # Your GitHub username
+
+# You can leave this out for now, but it's good to know about.
+# It allows you to exclude files from the final built site.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
