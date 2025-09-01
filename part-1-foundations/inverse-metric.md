@@ -5,7 +5,9 @@ part: 1
 chapter: 1
 ---
 
-# The Inverse Metric
+<h2><a href="https://ricciflow.org/part-1-foundations">Part 1</a></h2>
+
+### <a href="https://ricciflow.org/part-1-foundations/inverse-metric">Chapter 2</a> The Inverse Metric
 
 For every Riemannian metric $g$, which is represented in local coordinates by the matrix of components $[g_{ij}]$, there exists an **inverse metric**. The components of the inverse metric are denoted with upper indices, $g^{ij}$, and are defined as the entries of the matrix inverse of $[g_{ij}]$.
 
