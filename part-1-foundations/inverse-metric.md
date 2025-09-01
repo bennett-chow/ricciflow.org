@@ -13,6 +13,12 @@ $$
 [g^{ij}] = [g_{ij}]^{-1}
 $$
 
+As a tensor
+$$
+g^{-1} = g^{ij} \frac{\partial}{\partial x^i} \otimes \frac{\partial}{\partial x^j}
+$$
+is a well-defined symmetric $(2,0)$-tensor.
+
 ---
 ## Key Property
 
