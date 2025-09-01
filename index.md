@@ -9,7 +9,7 @@ $$
 
 <h2>Table of Contents</h2>
  
-<h3></h3><a href="/part-1-foundations/">Part 1</a>: Foundations</h3>
+<h3><a href="/part-1-foundations/">Part 1</a>: Foundations</h3>
 
 <a href="/part-1-foundations/riemannian-metric.html">Chapter 1<a/>: Riemannian metric
 
