@@ -5,8 +5,6 @@ part: 1
 chapter: 1
 ---
 
-## Part 1: Foundations
-
 ### Definition: Riemannian Metric
 
 A **Riemannian metric** on a smooth manifold $M$ is a family of inner products
