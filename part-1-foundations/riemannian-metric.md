@@ -5,6 +5,8 @@ part: 1
 chapter: 1
 ---
 
+<a href="https://ricciflow.org/part-1-foundations">Part 1</a>
+
 ### Definition: Riemannian Metric
 
 A **Riemannian metric** on a smooth manifold $M$ is a family of inner products
