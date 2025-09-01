@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Riemannian Metric
+part: 1
+chapter: 1
 ---
 
 ## Part 1: Foundations
