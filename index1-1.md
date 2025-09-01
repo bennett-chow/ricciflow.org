@@ -11,7 +11,7 @@ Table of Contents
 <p>
 Part 1
 <br>
-<a href="/part-1-foundations/riemannian-metric/">Chapter 1<a/>: Riemannian metric
+<a href="/part-1-foundations/riemannian-metric.html">Chapter 1<a/>: Riemannian metric
 
 <footer>
   <p>&copy; 2025 Bennett Chow. All rights reserved for now. 
