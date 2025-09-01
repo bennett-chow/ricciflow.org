@@ -5,7 +5,7 @@ part: 1
 chapter: 1
 ---
 
-<a href="https://ricciflow.org/part-1-foundations">Part 1</a>
+<h2><a href="https://ricciflow.org/part-1-foundations">Part 1</a></h2>
 
 ### Definition: Riemannian Metric
 
