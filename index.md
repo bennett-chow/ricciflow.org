@@ -7,10 +7,10 @@ $$
 \frac{\partial g_{ij}}{\partial t} = -2R_{ij}
 $$
 
-Table of Contents
-<p>
-<a href="/part-1-foundations/">Part 1</a>
-<br>
+<h2>Table of Contents</h2>
+ 
+<h3></h3><a href="/part-1-foundations/">Part 1</a></h3>
+
 <a href="/part-1-foundations/riemannian-metric.html">Chapter 1<a/>: Riemannian metric
 
 <footer>
