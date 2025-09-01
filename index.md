@@ -14,6 +14,11 @@ $$
 <a href="/part-1-foundations/riemannian-metric.html">Chapter 1<a/>: Riemannian metric
 
 <footer>
-  <p>&copy; 2025 Bennett Chow. All rights reserved for now. 
-  This site may later be released under an open community license.</p>
+  <p>
+    To the extent possible under law, Bennett Chow has waived all copyright and related or neighboring rights to the Ricci Flow project. This work is published from the United States.
+    <br>
+    <a href="https://creativecommons.org/publicdomain/zero/1.0/">
+      <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0">
+    </a>
+  </p>
 </footer>
