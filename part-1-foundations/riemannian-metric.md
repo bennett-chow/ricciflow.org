@@ -3,7 +3,7 @@ layout: default
 title: Riemannian Metric
 ---
 
-## Definition: Riemannian Metric
+### Definition: Riemannian Metric
 
 A **Riemannian metric** on a smooth manifold $M$ is a family of inner products
 $g_p : T_pM \times T_pM \to \mathbb{R}$, one for each point $p \in M$, that varies smoothly from point to point. 
@@ -14,7 +14,7 @@ The pair $(M, g)$ is called a **Riemannian manifold**.
 
 ---
 
-### Local Coordinates
+#### Local Coordinates
 
 In a local coordinate chart $(U, x^i)$, the metric is expressed as a symmetric $(0,2)$-tensor:
 
@@ -32,7 +32,7 @@ $$
 
 ---
 
-### Example: The Euclidean Metric
+#### Example: The Euclidean Metric
 
 The simplest example of a Riemannian metric is the standard Euclidean metric on $\mathbb{R}^n$. In the standard coordinates $(x^1, \dots, x^n)$, the metric tensor is given by the Kronecker delta, $\delta_{ij}$.
 
