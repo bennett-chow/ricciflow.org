@@ -9,7 +9,7 @@ $$
 
 Table of Contents
 <p>
-Part 1
+<a href="/part-1-foundations/">Part 1</a>
 <br>
 <a href="/part-1-foundations/riemannian-metric.html">Chapter 1<a/>: Riemannian metric
 
