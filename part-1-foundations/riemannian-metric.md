@@ -32,7 +32,7 @@ $$
 g(v, w) = g_{ij}v^i w^j
 $$
 
-(Note: The Einstein summation convention is used here.)
+Note: The Einstein summation convention is used here. Repeated indices, usually one upper and one lower, are summed from $1$ to $n$, the dimension of $M$.
 
 ---
 
