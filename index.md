@@ -16,6 +16,8 @@ $$
 <a href="/part-1-foundations/inverse-metric.html">Chapter 2<a/>: The inverse metric
 <br>
 <a href="/part-1-foundations/levi-civita-connection.html">Chapter 3<a/>: The Levi-Civita connection
+<br>
+<a href="/part-1-foundations/riemann-curvature-tensor.html">Chapter 4<a/>: The Riemann curvature tensor
 
 <footer>
   <p>
