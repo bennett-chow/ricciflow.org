@@ -20,6 +20,7 @@ $$
 g^{-1} = g^{ij} \frac{\partial}{\partial x^i} \otimes \frac{\partial}{\partial x^j}
 $$
 is a well-defined symmetric $(2,0)$-tensor.
+As in Chapter 1, we use the Einstein summation convention.
 
 ---
 ## Key Property
