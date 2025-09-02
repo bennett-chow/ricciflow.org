@@ -7,5 +7,59 @@ chapter: 3
 
 <h2><a href="https://ricciflow.org/part-1-foundations">Part 1</a></h2>
 
-### <a href="https://ricciflow.org/part-1-foundations/levi-civita-connection">Chapter 1</a> Definition: Levi-Civita connection
+### <a href="https://ricciflow.org/part-1-foundations/levi-civita-connection">Chapter 3</a> Definition: Levi-Civita connection
+
+\section*{Definition}
+
+
+
+On a Riemannian manifold $(M, g)$, the \textbf{Levi-Civita connection} is the unique affine connection, denoted by $\nabla$, that satisfies two fundamental properties: it is \textbf{torsion-free} and it is \textbf{compatible with the metric} $g$.
+
+
+
+Let $X$, $Y$, and $Z$ be smooth vector fields on $M$. The two defining properties are detailed below.
+
+
+
+\subsection*{1. Torsion-Free (Symmetry)}
+
+
+
+A connection is torsion-free if the order of the lower arguments does not introduce a torsion term. This property relates the connection to the Lie bracket of vector fields.
+
+\begin{equation*}
+
+    \nabla_X Y - \nabla_Y X = [X, Y]
+
+\end{equation*}
+
+
+
+\subsection*{2. Metric Compatibility}
+
+
+
+A connection is compatible with the metric $g$ if the metric tensor is covariantly constant ($\nabla g = 0$). This ensures that lengths and angles are preserved under parallel transport. The condition is expressed via the product rule:
+
+\begin{equation*}
+
+    X(g(Y, Z)) = g(\nabla_X Y, Z) + g(Y, \nabla_X Z)
+
+\end{equation*}
+
+
+
+\section*{The Koszul Formula}
+
+
+
+The existence and uniqueness of the Levi-Civita connection are guaranteed by the Fundamental Theorem of Riemannian Geometry. This theorem also provides an explicit formula for the connection, known as the \textbf{Koszul formula}, which defines $\nabla_X Y$ by its inner product with an arbitrary vector field $Z$.
+
+
+
+\begin{equation*}
+
+    2g(\nabla_X Y, Z) = X(g(Y, Z)) + Y(g(Z, X)) - Z(g(X, Y)) - g(X, [Y, Z]) - g(Y, [X, Z]) + g(Z, [X, Y])
+
+\end{equation*}
 
