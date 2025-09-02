@@ -37,4 +37,4 @@ $$
     2g(\nabla_X Y, Z) = X(g(Y, Z)) + Y(g(Z, X)) - Z(g(X, Y)) - g(X, [Y, Z]) - g(Y, [X, Z]) + g(Z, [X, Y])
 $$
 
-This formula is obtained by summing the folloing three formulas ...
+This formula is obtained by summing the folloing three formulas ... and using the torsion-free condition.
