@@ -52,3 +52,8 @@ $$
 0 & 0 & \cdots & 1
 \end{pmatrix}
 $$
+
+---
+
+The Lean definition of <a href="https://github.com/leanprover-community/mathlib4/tree/master/Mathlib/Geometry/Manifold/Riemannian">Riemannian metric</a>.
+
