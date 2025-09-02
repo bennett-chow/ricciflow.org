@@ -33,6 +33,7 @@ g(v, w) = g_{ij}v^i w^j
 $$
 
 Note: The Einstein summation convention is used here. Repeated indices, usually one upper and one lower, are summed from $1$ to $n$, the dimension of $M$.
+For example, $g_{ij} dx^i \otimes dx^j = \sum_{i,j=1}^n g_{ij} dx^i \otimes dx^j$.
 
 ---
 
